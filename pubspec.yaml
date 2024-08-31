@@ -1,7 +1,13 @@
 name: bg_vertical_stepper
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "Vertical Stepper with Dotted Line in Flutter use to create vertical staper like amazon, flipkart product tracking."
+version: 1.0.1
+homepage: https://github.com/Developer-ritesh/bg_vertical_stepper
+
+metadata:
+  repository: https://github.com/Developer-ritesh/bg_vertical_stepper
+  website: https://biharigraphic.com/
+  linkedin: https://www.linkedin.com/in/developerritesh/
+
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
