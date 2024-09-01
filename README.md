@@ -12,13 +12,13 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
   <div style="width: 100%; height: auto;">
-    <img src="/images/1.png" alt="Image 1" style="width: 100%; height: auto; display: block;">
+    <img src="https://github.com/Developer-ritesh/bg_vertical_stepper/raw/main/images/1.png" alt="Image 1" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="width: 100%; height: auto;">
-    <img src="/images/2.png" alt="Image 2" style="width: 100%; height: auto; display: block;">
+    <img src="https://github.com/Developer-ritesh/bg_vertical_stepper/raw/main/images/2.png" alt="Image 2" style="width: 100%; height: auto; display: block;">
   </div>
   <div style="width: 100%; height: auto;">
-    <img src="/images/3.png" alt="Image 3" style="width: 100%; height: auto; display: block;">
+    <img src="https://github.com/Developer-ritesh/bg_vertical_stepper/raw/main/images/3.png" alt="Image 3" style="width: 100%; height: auto; display: block;">
   </div>
 </div>
 
